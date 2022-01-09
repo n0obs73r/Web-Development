@@ -1,0 +1,28 @@
+body{
+  background-color: #CBE4F9;
+}
+hr{
+  background-color: #CBE4F9;
+  border-bottom-style: dotted;
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-color: #A9A9A9	;
+  border-top-style: none;
+  width: 10%;
+  border-width: 10px;
+}
+h1{
+text-align: center;
+  color: #66BFBF;
+}
+h3{
+  text-align: center;
+  color: #66BFBF;
+}
+p{
+  text-align: center;
+}
+
+table{
+  text-align: center;
+}
